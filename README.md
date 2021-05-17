@@ -8,7 +8,7 @@
 
 ### Language & skills:
     PHP SQL Python C++ HTML/CSS Javascript Dart
-    Laravel Vue.js Django Flutter Android socket
+    Laravel Vue.js Django Flutter Android Socket.io
     MySQL PostgreSQL Redis Firebase 
     Apache Nginx  
     Linux Mac Windows
