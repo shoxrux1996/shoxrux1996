@@ -1,6 +1,6 @@
 ### Hi there, I'm Shokhrukh Shomakhmudov 👋
 
-- 🔭 I’m currently working at "AVTECH - Global Computer Trade"
+- 🔭 I’m currently working at "Upstack" as a freelancer
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Dedicated professional Software Developer
 - 👨‍🎓 Bachelor's Degree in Computer Science and Engineering 
