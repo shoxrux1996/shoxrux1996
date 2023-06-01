@@ -7,8 +7,8 @@
 - ⚡ 5 year experience in Web Development using PHP, Laravel Framework
 
 ### Language & skills:
-    PHP SQL Python C++ HTML/CSS Javascript Dart
-    Laravel Vue.js Django Flutter Android Socket.io
+    PHP SQL Dart Python C++ HTML/CSS Javascript 
+    Laravel Vue.js Flutter Django Android Socket.io
     MySQL PostgreSQL Redis Firebase 
     Apache Nginx  
     Linux Mac Windows
